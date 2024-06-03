@@ -37,13 +37,4 @@ class LoginController extends Controller
             'email' => [__('auth.failed')],
         ]);
     }
-
-    public function logout()
-    {
-        Auth::guard('web')->logout();
-        request()->session()->invalidate();
-        request()->session()->regenerateToken();
-
-        return redirect('/login');
-    }
 }
