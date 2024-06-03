@@ -15,9 +15,9 @@ class UsersTableSeeder extends Seeder
     {
         $users = [
             ['name' => 'エンゲルス', 'email' => 'engels@example.com', 'password' => Hash::make('password')],
-            ['name' => 'ゴルバチョフ', 'email' => 'gorbachev@example.com', 'password' => Hash::make('password')],
-            ['name' => 'スターリン', 'email' => 'stalin@example.com', 'password' => Hash::make('password')],
-            ['name' => 'フルシチョフ', 'email' => 'khrushchev@example.com', 'password' => Hash::make('password')],
+            ['name' => 'チェ・ゲバラ', 'email' => 'gorbachev@example.com', 'password' => Hash::make('password')],
+            ['name' => 'シャルル・フーリエ', 'email' => 'stalin@example.com', 'password' => Hash::make('password')],
+            ['name' => 'ピョートル・クロポトキン', 'email' => 'khrushchev@example.com', 'password' => Hash::make('password')],
             ['name' => 'マルクス', 'email' => 'marx@example.com', 'password' => Hash::make('password')],
             ['name' => 'レーニン', 'email' => 'lenin@example.com', 'password' => Hash::make('password')]
         ];
