@@ -58,8 +58,9 @@ sail npm install
 ```bash
 sail npm run dev
 ```
+---------初期セットアップはここまで----------
 
-10. 参考サイト<br>
+参考サイト<br>
 pusherを使う<br>
 https://pusher.com/<br>
 pusherの使い方<br>
