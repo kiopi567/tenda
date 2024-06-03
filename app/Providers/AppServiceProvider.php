@@ -20,6 +20,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
+        //ポストだけ変更
         Broadcast::channel('posts', function ($user) {
             return true;
         });
