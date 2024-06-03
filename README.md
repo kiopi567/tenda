@@ -1,12 +1,12 @@
-## 手順
+## 手順（旧1班の資料を参考にしている）
 1. リポジトリのクローン
 ```bash
-
+https://github.com/kiopi567/tenda.git
 ```
 
 2. プロジェクト内へ移動
 ``` bash
-cd shopping
+cd tenda
 ```
 
 3. .envの作成
@@ -56,25 +56,6 @@ sail npm install
 (認証部分やTailwind CSSなど、Node.jsを用いている部分の動作に必要)
 ```bash
 sail npm run dev
-```
-
-10. 画像データの追加
-
-画像データを追加したい場合
-
-storage/app/public内にimgファイルを作成し、
-挿入したいファイルデータを追加する。
-
-
-```bash
-//imgファイルを有効化するコマンド
-sail artisan storage:link
-```
-
-11. 商品,カテゴリーテストデータ挿入
-```bash
-//商品,カテゴリーテストデータ挿入
-sail artisan db:seed --class=TestDataSeeder
 ```
 
 ## 困ったときは
