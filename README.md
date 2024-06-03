@@ -1,4 +1,5 @@
-## 手順（旧1班の資料を参考にしている）
+## 手順
+旧1班の資料を参考にしています
 1. リポジトリのクローン
 ```bash
 https://github.com/kiopi567/tenda.git
@@ -57,6 +58,10 @@ sail npm install
 ```bash
 sail npm run dev
 ```
+
+10. 参考サイト
+https://qiita.com/shotashimura/items/d0019032f941458b0963
+https://qiita.com/akkino_D-En/items/9d6e49c5f7aa41e31021
 
 ## 困ったときは
 コンテナを一度消して作りなおしましょう
