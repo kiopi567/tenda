@@ -60,7 +60,11 @@ sail npm run dev
 ```
 
 10. 参考サイト<br>
+pusherを使う<br>
+https://pusher.com/<br>
+pusherの使い方<br>
 https://qiita.com/shotashimura/items/d0019032f941458b0963<br>
+pusherの使い方2<br>
 https://qiita.com/akkino_D-En/items/9d6e49c5f7aa41e31021<br>
 
 ## 困ったときは
