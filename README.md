@@ -59,9 +59,9 @@ sail npm install
 sail npm run dev
 ```
 
-10. 参考サイト
-https://qiita.com/shotashimura/items/d0019032f941458b0963
-https://qiita.com/akkino_D-En/items/9d6e49c5f7aa41e31021
+10. 参考サイト<br>
+https://qiita.com/shotashimura/items/d0019032f941458b0963<br>
+https://qiita.com/akkino_D-En/items/9d6e49c5f7aa41e31021<br>
 
 ## 困ったときは
 コンテナを一度消して作りなおしましょう
